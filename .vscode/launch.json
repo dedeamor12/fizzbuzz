@@ -16,7 +16,6 @@
             "args": [
                 "run",
                 "--debug"
-                
             ],
             "jinja": true,
             "autoStartBrowser": true
